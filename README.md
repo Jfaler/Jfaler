@@ -17,7 +17,7 @@ Hi, I'm Justin Faler (he/him/his)—the founder of 🦄 Bitlits. I live in Menif
 - Website: https://JustinFaler.com
 
 ## Orgs to donate towards
-- [National Alliance on Mentall Illness](https://www.nami.org/About-NAMI/Donate-to-NAMI)
+- [National Alliance on Mental Illness](https://www.nami.org/About-NAMI/Donate-to-NAMI)
 - [Black Earth Farms](https://www.blackearthfarms.com/)
 - [Anti Police Terror Project](https://www.antipoliceterrorproject.org/)
 - [Ella Baker Center for Human Rights](https://ellabakercenter.org/)
