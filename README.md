@@ -1,7 +1,7 @@
 # Justin Faler - #BlackLivesMatter
 Hi, I'm Justin Faler (he/him/his)—the founder of [@Bitlits](https://www.github.com/Bitlits). I live in Menifee, CA and go to college at 🦅 Mt. San Jacinto College. I'm a huge philosophy nerd/geek, Tiger Army fan, and aspiring computer scientist. 💕
 
-## Latest kaggle notebooks
+## Latest Kaggle notebooks
 🩺 [Pulmonary Embolism EDA](https://www.kaggle.com/immune/pulmonary-embolism-eda)<br>
 🧬 [Beginner Cellular EDA](https://www.kaggle.com/immune/beginner-cellular-eda)
 
