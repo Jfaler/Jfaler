@@ -12,10 +12,6 @@ Hi, I'm Justin Faler (he/him/his)—the founder of [@Bitlits](https://www.github
 🎣 Fishing<br>
 🚀 Elevating the underrepresented
 
-## Get in touch
-- Twitter: https://twitter.com/JustinFaler
-- Website: https://JustinFaler.com
-
 ## Orgs to donate towards
 - [National Alliance on Mental Illness](https://www.nami.org/About-NAMI/Donate-to-NAMI)
 - [Black Earth Farms](https://www.blackearthfarms.com/)
