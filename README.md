@@ -16,9 +16,9 @@ My background combines **Computer Science**, **Computer Information Systems**, *
 
 ## Skills
 
-**Languages:** Python, JavaScript, C++, R, Assembly, HTML, CSS
-**Security & IT:** CompTIA A+, CompTIA Security+, CCNA, troubleshooting
-**Networking:** TCP/IP, DNS, DHCP, VLANs, WLAN, routing, switching, subnetting, OSI model
+* **Languages:** Python, JavaScript, C++, R, Assembly, HTML, CSS
+* **Security & IT:** CompTIA A+, CompTIA Security+, CCNA, troubleshooting
+* **Networking:** TCP/IP, DNS, DHCP, VLANs, WLAN, routing, switching, subnetting, OSI model
 
 ## Focus
 
